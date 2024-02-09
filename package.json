@@ -1,0 +1,15 @@
+{
+  "name": "solution",
+  "version": "1.0.0",
+  "description": "![Design preview for the FAQ accordion coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "watch": "yarn sass --watch css/stylesaccordion.scss css/stylesaccordion.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.70.0"
+  }
+}
